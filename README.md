@@ -1,4 +1,4 @@
-# Knapsack-Problem-Heuristic-Algorithms
+# Knapsack-Problem
 ## Hill climbing
 ![](https://i.imgur.com/FnnycKf.png)
 ![](https://i.imgur.com/JaoNM1m.png)
